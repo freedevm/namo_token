@@ -239,3 +239,8 @@ Twitter: @NAMOCoin
 
 
 🌟 Support a Cause with NAMO Coin! 🌟
+
+TestNet Address:
+MockUSDT deployed to: 0x93DaE8956b3E46876eB0Ff7566E248E624a0E5F3
+MockBUSD deployed to: 0xfBB590f64069f2cc078C5fE72075BE6Ae94a1cf6
+NAMOCoin deployed to: 0xEf319A5c5D7D35467B4EA972998930f5D3b04F24
